@@ -6,7 +6,7 @@
 * Aniqa Zaida Khanom
 * Sheikh Mastura Farzana
 
-This thesis project was done as part of the Computer Science and Engineering curriculum of BRAC University, Dhaka, Bangladesh. It presents the comparative analysis of different Machine Learning algorithms in predicting health complications that are induced by Diabetes Mellitus. The thesis was conducted in a group of three students under the guidance of a supervising faculty member and a co-supervisor.
+This thesis project was done as part of the Computer Science and Engineering curriculum of BRAC University, Dhaka, Bangladesh. It presents a comparative analysis of different Machine Learning algorithms in predicting health complications that are induced by Diabetes Mellitus. The thesis was conducted in a group of three students under the guidance of a supervising faculty member and a co-supervisor.
 
 The research paper written on the topic was titled "Analysis of Linear and Non-Linear Classifiers in Imbalanced Data to Predict Diabetes Induced Complications". It was presented at The 15th International Conference on Machine Learning and Data Mining MLDM 2019, held in New York, USA. The manuscript of the paper is available in the 'MLDM Conference Paper' folder. The manuscript of the thesis report and relevant codes are available in this repository.
 
