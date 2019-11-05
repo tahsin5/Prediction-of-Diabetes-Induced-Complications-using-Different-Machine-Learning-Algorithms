@@ -15,3 +15,5 @@ series data of a year that contains 164 features including results of different 
 Nephropathy and Cardiovascular disease.
 
 For implementation Python was used as the primary language with few scripts in the R programming language. Python libraries like pandas, numpy,scikit-learn, matplotlib, etc. were also used.
+
+http://dspace.bracu.ac.bd/xmlui/handle/10361/10945
